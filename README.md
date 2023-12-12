@@ -3,4 +3,4 @@ API for my Cloud Based Artificially Intelligent Assistant
 
 QR Code:
 
-![alt text](/oneai-cloud-qr.png)
+![QR_CODE](/oneai-cloud-qr.png)
